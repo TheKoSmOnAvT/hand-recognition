@@ -30,11 +30,9 @@
 ### Сверточная нейронная сеть
 - ![Acc handmodel](src/modelACC.png)
 - ![Loss handmodel](src/modelLOSS.png)
-- ![classificator reporterl](src/modelF1.png)
 ### MobileNetV2
-- ![Acc handmodel](src/.png)
-- ![Loss handmodel](src/.png)
-- ![classificator reporterl](src/.png)
+- ![Acc handmodel](src/accPreTrained.png)
+- ![Loss handmodel](src/lossPreTrained.png)
 
 
 
