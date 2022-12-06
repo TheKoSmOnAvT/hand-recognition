@@ -26,15 +26,21 @@
 - handModel.ipynb - модель свверточной нейронной сети
 - preTrainedHandModel.ipynb - модель добученной сети MobileNetV2
 
-## Графики и метрики
+## Графики при обучении
 ### Сверточная нейронная сеть
-- ![Acc handmodel](src/modelACC.png)
-- ![Loss handmodel](src/modelLOSS.png)
+
+![Acc handmodel](src/modelACC.png)
+
+![Loss handmodel](src/modelLOSS.png)
+
 ### MobileNetV2
-- ![Acc handmodel](src/accPreTrained.png)
-- ![Loss handmodel](src/lossPreTrained.png)
 
+![Acc MobileNetV2](src/accPreTrained.png)
 
+![Loss MobileNetV2](src/lossPreTrained.png)
 
+### Результаты на тестовых данных
+
+![test handmodel](src/testResult.png)
 
 **Также презентация находится в директории presentation**
